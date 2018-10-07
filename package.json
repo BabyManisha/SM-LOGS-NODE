@@ -1,0 +1,24 @@
+{
+  "name": "sm-logs-node",
+  "version": "1.0.0",
+  "description": "My First Node Package just to print the messages in the console",
+  "main": "smlogs.js",
+  "scripts": {
+    "test": "c.lg(\"Hello WOrld!!\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BabyManisha/SM-LOGS-NODE.git"
+  },
+  "keywords": [
+    "consolelogs",
+    "logs",
+    "messages"
+  ],
+  "author": "BabyMansiha.Sunkara <babymaneesha@gmail.com> (http://sunkara.babymanisha.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BabyManisha/SM-LOGS-NODE/issues"
+  },
+  "homepage": "https://github.com/BabyManisha/SM-LOGS-NODE#readme"
+}
