@@ -1,3 +1,3 @@
-module.exports.smlogs = (msg) => {
+module.exports.lg = (msg) => {
     return console.log(msg);
 };
